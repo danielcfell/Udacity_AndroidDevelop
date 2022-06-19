@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name_text">Daniel Castillo</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="description">Lorem ipsum dolor sit amet consectetur adipiscing elit
+        \nsollicitudin erat, porttitor sagittis est conubia tortor commodo blandit. Habitasse
+        \nlaoreet fusce feugiat tristique sem faucibus enim cursus fringilla himenaeos conubia quis lacus,
+        \ntortor ultricies nullam lacinia vitae mollis velit nascetur fermentum urna cras eros.
+        \nPraesent non ridiculus arcu vel vitae risus, platea montes lacinia inceptos etiam.
+        Lorem ipsum dolor sit amet consectetur adipiscing elit
+        \nsollicitudin erat, porttitor sagittis est conubia tortor commodo blandit. Habitasse
+        \nlaoreet fusce feugiat tristique sem faucibus enim cursus fringilla himenaeos conubia quis lacus,
+        \ntortor ultricies nullam lacinia vitae mollis velit nascetur fermentum urna cras eros.
+        \nPraesent non ridiculus arcu vel vitae risus, platea montes lacinia inceptos etiam.
+     Lorem ipsum dolor sit amet consectetur adipiscing elit
+        \nsollicitudin erat, porttitor sagittis est conubia tortor commodo blandit. Habitasse
+        \nlaoreet fusce feugiat tristique sem faucibus enim cursus fringilla himenaeos conubia quis lacus,
+        \ntortor ultricies nullam lacinia vitae mollis velit nascetur fermentum urna cras eros.
+        \nPraesent non ridiculus arcu vel vitae risus, platea montes lacinia inceptos etiam.
+        Lorem ipsum dolor sit amet consectetur adipiscing elit
+        \nsollicitudin erat, porttitor sagittis est conubia tortor commodo blandit. Habitasse
+        \nlaoreet fusce feugiat tristique sem faucibus enim cursus fringilla himenaeos conubia quis lacus,
+        \ntortor ultricies nullam lacinia vitae mollis velit nascetur fermentum urna cras eros.
+        \nPraesent non ridiculus arcu vel vitae risus, platea montes lacinia inceptos etiam.
+        Lorem ipsum dolor sit amet consectetur adipiscing elit
+        \nsollicitudin erat, porttitor sagittis est conubia tortor commodo blandit. Habitasse
+        \nlaoreet fusce feugiat tristique sem faucibus enim cursus fringilla himenaeos conubia quis lacus,
+        \ntortor ultricies nullam lacinia vitae mollis velit nascetur fermentum urna cras eros.
+        \nPraesent non ridiculus arcu vel vitae risus, platea montes lacinia inceptos etiam.
+        Lorem ipsum dolor sit amet consectetur adipiscing elit
+        \nsollicitudin erat, porttitor sagittis est conubia tortor commodo blandit. Habitasse
+        \nlaoreet fusce feugiat tristique sem faucibus enim cursus fringilla himenaeos conubia quis lacus,
+        \ntortor ultricies nullam lacinia vitae mollis velit nascetur fermentum urna cras eros.
+        \nPraesent non ridiculus arcu vel vitae risus, platea montes lacinia inceptos etiam.</string>
+    <string name="typer_your_nickName">typer your nick name</string>
+    <string name="done">done</string>
 </resources>
